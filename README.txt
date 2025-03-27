@@ -74,7 +74,7 @@ POST create a new user:
 curl --silent --include --request POST --header "Content-Type: application/json" --data '{"firstName":"joe","lastName":"doe","city":"tampere","address":"tamperetie","teamName":"f","pay":60000}' "http://localhost:your_port_number/api/v1/user"
 
 DELETE a user (previously created):
-curl --silent --include --request DELETE "http://localhost:8078/api/v1/user/6"
+curl --silent --include --request DELETE "http://localhost:your_port_number/api/v1/user/6"
 
 PUT update a user (firstName Joan to Jane):
-curl --silent --include --request PUT --header "Content-Type: application/json" --data '{"firstName":"Jane"}' "http://localhost:8078/api/v1/user/2"
+curl --silent --include --request PUT --header "Content-Type: application/json" --data '{"firstName":"Jane"}' "http://localhost:your_port_number/api/v1/user/2"
