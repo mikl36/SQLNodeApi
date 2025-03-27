@@ -35,7 +35,7 @@ USAGE
 Create a .env file in the root directory with the following content:
 
 PORT=your_port_number
-DATABASE_NAME=database.db
+DATABASE_NAME=your_database.db
 Start the server using the following command:
 
 node server.js
