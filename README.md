@@ -1,5 +1,4 @@
-# DESCRIPTION
-**Project Name:** API DEVELOPMENT PROJECT
+# API DEVELOPMENT PROJECT (NODE + SQLITE)
 
 ## Description:
 This project is a Node.js application developed as part of a course project. The database is based on SQL standard.
