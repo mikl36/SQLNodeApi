@@ -9,6 +9,7 @@ const SQL_BASE_TABLE = `
   INNER JOIN salary AS s ON p.id = s.person_id
 `
 // ORDER BY p.last_name ASC, t.team_name ASC
+// ASYNC operations (reservation)
 
 // Function to get all users
 const getAllUsers = (req, res) => {
