@@ -2,7 +2,7 @@
 Project Name: API DEVELOPMENT PROJECT
 
 ##Description:
-This project is a Node.js application developed as part of a course project.
+This project is a Node.js application developed as part of a course project. Database is based on SQL standard.
 It implements a service with the following features:
 
 ##HTTP Server:
